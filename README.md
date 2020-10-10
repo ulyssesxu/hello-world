@@ -1,2 +1,3 @@
 # hello-world
-New Beginning
+New Beginning.
+Let's go!
